@@ -1,5 +1,8 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
 
+# Live Preview
+>https://664f0551bd7c970094a94a84--jolly-madeleine-6df221.netlify.app/
+
 # JavaScript Portfolio Site with GitHub Codespaces and Copilot
 
 > View these instructions in [Spanish](/translations/es/README.md) or [Portuguese](/translations/pt-BR/README.md)
