@@ -2,6 +2,9 @@
 
 This is a React application built with Vite. The app allows users to view detailed information about various recipes.
 
+## Live Preview
+-[Live Preview](https://youtube.com)
+
 ## Features
 
 - View a list of recipes
