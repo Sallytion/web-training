@@ -1,8 +1,39 @@
-# React + Vite
+# Recipe App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React application built with Vite. The app allows users to view detailed information about various recipes.
 
-Currently, two official plugins are available:
+## Live Preview
+-[Live Preview](https://youtube.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- View a list of recipes
+- Search for recipes
+- View detailed information about a specific recipe, including ingredients and instructions
+
+## Project Structure
+
+The project has the following structure:
+.eslintrc.cjs .gitignore index.html package.json README.md src/ App.css App.jsx components/ Footer.jsx RecipeCard.jsx RecipePage.jsx SearchBar.jsx index.css main.jsx recipes.json vite.config.js
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository
+2. Install the dependencies with `npm install`
+3. Start the development server with `npm run dev`
+
+## Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [React-Bootstrap](https://react-bootstrap.github.io/)
+
+## Contributing
+
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
