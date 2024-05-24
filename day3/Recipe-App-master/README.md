@@ -3,7 +3,7 @@
 This is a React application built with Vite. The app allows users to view detailed information about various recipes.
 
 ## Live Preview
--[Live Preview](https://youtube.com)
+-[Live Preview](https://6650a60dd0767b00a6f967ab--cosmic-tapioca-0b18d5.netlify.app/)
 
 ## Features
 
